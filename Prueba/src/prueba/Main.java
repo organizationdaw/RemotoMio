@@ -2,16 +2,10 @@ package prueba;
 
 public class Main {
 
-	/* He añadido un comentario*/
 	public static void main(String[] args) {
-			System.out.println("Prueba");
-
+		// TODO Auto-generated method stub
+		System.out.println("Prueba");
+//Lo salvo en local
 	}
-/*Este comentario si que es el último*/
-	/* Añado esto */
-	/*Esto de golpe*/
-	/*Esto para mi nuevo branch*/
-	/*Deberia copiarlo en nuevo*/
-	/*ESte sí*/
-	/*Quiero que copie esto en el branch*/
+
 }
